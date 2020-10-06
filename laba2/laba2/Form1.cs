@@ -17,7 +17,7 @@ namespace laba2
             InitializeComponent();
         }
         
-        private void button1_Click(object sender, EventArgs e)
+         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "Война и мир";
         }
@@ -29,17 +29,17 @@ namespace laba2
 
         private void button4_Click_1(object sender, EventArgs e)
         {
-            textBox3.Text = "2013 год";
+            textBox3.Text = "1504";
         }
 
         private void button5_Click_1(object sender, EventArgs e)
         {
-            textBox4.Text = "Азбука";
+            textBox4.Text = "2013 год";
         }
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            textBox5.Text = "1504";
+            textBox5.Text = "Азбука";
         }
     }
 }
