@@ -35,6 +35,5 @@ namespace laba2
         {
             textBox4.Text = "Азбука";
         }
-        }
     }
 }
