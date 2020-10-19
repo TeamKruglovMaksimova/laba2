@@ -35,10 +35,6 @@ namespace laba2
         {
             textBox4.Text = "Азбука";
         }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = "1504";
         }
     }
 }
